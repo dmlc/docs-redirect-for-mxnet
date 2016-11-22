@@ -1,2 +1,2 @@
 .. meta::
-    :http-equiv=refresh: 0;URL='http://mxnet.io/how_to/pretrained.html'
+    :http-equiv=refresh: 0;URL='http://mxnet.io/tutorials/python/predict_imagenet.html'

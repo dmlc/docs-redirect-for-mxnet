@@ -22,3 +22,4 @@ packages/r/index.html,api/r/index.html
 packages/r/mnistCompetition.html,api/r/mnistCompetition.html
 packages/r/ndarrayAndSymbolTutorial.html,api/r/ndarrayAndSymbolTutorial.html
 packages/scala/index.html,api/scala/index.html
+how_to/pretrained.html,tutorials/python/predict_imagenet.html
